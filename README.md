@@ -1,4 +1,21 @@
-### Hi there 👋
+ < HELLO WORLD /> 👋
+ 
+ This is Sabari Ganesh K 💎 Undergrad , who can code stuffs 🔥
+ Visit https://sabz.netlify.app to know moree ✔✔
+ 
+ 
+ A Person who ❤s technologies and gadgets 🥂 .
+ Exploring the field of Web3.0 🚀 and Blockchain 👩‍💻 
+ 
+ 
+ I'm Skilled @
+ 
+ Python ...🌐▶...Javascript
+ 
+ HTML5-CSS3...🎧💻...ReactJS
+ 
+ ReactNative...📲🏅...Git
+ 
 
 <!--
 **SabariGanesh-K/SabariGanesh-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
