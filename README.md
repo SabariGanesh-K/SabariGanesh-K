@@ -14,6 +14,8 @@
  
  HTML5-CSS3...🎧💻...ReactJS
  
+ Solidity...🏅🚀...Alchemy
+ 
  Moralis WEB3...📲🚀...Firebase
  
  ReactNative...📲🏅...Git
