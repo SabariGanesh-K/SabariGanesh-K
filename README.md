@@ -2,7 +2,7 @@
 <h1 align = "center">  This is Sabari Ganesh K 💎 Undergrad , who can code stuffs 🔥
  Visit www.sabariganesh.tech to know moree ✔✔ </h1>
  <br> <br>
- <img src = "https://c.tenor.com/vXemvwdWbg8AAAAC/gains-gains-crypto-blockchain.gif" width = "1200" >
+ <img src = "https://c.tenor.com/vXemvwdWbg8AAAAC/gains-gains-crypto-blockchain.gif" width = "100%" >
 
  A Person who ❤s technologies and gadgets 🥂 .
  Exploring the field of Web3.0 🚀 and Blockchain 👩‍💻 
