@@ -7,7 +7,7 @@
  A Person who ❤s technologies and gadgets 🥂 .
  Exploring the field of Web3.0 🚀 and Blockchain 👩‍💻 
  
- <h2>I'm Skilled @ </h2>
+ <h2>I'm Know to work with </h2>
  🚀🚀WEB AND APP  DEV 
  <h1>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -16,6 +16,7 @@
         <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
           <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
    <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
      <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
