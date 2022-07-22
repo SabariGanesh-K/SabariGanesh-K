@@ -7,6 +7,7 @@
  A Person who ❤s technologies and gadgets 🥂 .
  Exploring the field of Web3.0 🚀 and Blockchain 👩‍💻 
  
+ Pursuing my CSE @ VELLORE INSTITUTE OF TECHNOLOGY , CHENNAI
  <h2>I'm Know to work with </h2>
  🚀🚀WEB AND APP  DEV 
  <h1>
