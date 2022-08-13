@@ -53,7 +53,7 @@
   <h2 align = "center">
  <a href="https://twitter.com/sabarisabs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabarisabs1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabariganeshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariganeshk" height="30" width="40" /></a>
-<a href="https://instagram.com/sabariganesh.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabariganesh.tech" height="30" width="40" /></a>
+<a href="https://instagram.com/sabari.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabariganesh.tech" height="30" width="40" /></a>
 <a href="https://medium.com/@k.sabarii.ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@k.sabarii.ganesh" height="30" width="40" /></a>
 <a href="https://discord.gg/sabari.eth🚀🚀🚀#1057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabari.eth🚀🚀🚀#1057" height="30" width="40" /></a>
   </h2>
