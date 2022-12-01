@@ -17,9 +17,12 @@
         <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
           <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
    <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
+ <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ <img src = "https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
      <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
       <img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </h1>
@@ -29,6 +32,7 @@
  <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
  <img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
  <img src = "https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white">
+ <img src = "https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
   <img src = "https://mma.prnewswire.com/media/1055937/Alchemy_Logo.jpg?p=facebook" height = "35" width =  "100">
   <img src = "https://moralis.io/wp-content/uploads/2022/05/Moralis-Logo-LightBG-Large.png" height = "35" width =  "100">
   <img src = "https://miro.medium.com/max/1400/1*TX5Jg6--E0Z-WHq8-Etgjw.png" height = "30" width =  "100">
@@ -37,16 +41,18 @@
    <img src = "https://moonbeam.network/wp-content/uploads/2020/12/metamask-500.png" height = "45" width =  "100">
  <img src = "https://www.solodev.com/file/132f0677-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo.jpg" height = "40" width = "100">
  <img src = "https://0xchai.io/static/images/ethersjs.png" height = "40" width = "100">
+ <img src = "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
 </h1>
 
  🚀🚀PROGRAMMING LANGUAGES 
  <h1>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
   <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- 
+ <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </h1>
 
 
@@ -56,15 +62,15 @@
 </h1>
 
  <h2 align = "center">STAY HAPPY AND KEEP CODING 😎</h2>
-  <h2 align = "center">
- <a href="https://twitter.com/sabarisabs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabarisabs1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sabariganeshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariganeshk" height="30" width="40" /></a>
-<a href="https://instagram.com/sabari.eth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabari.eth" height="30" width="40" /></a>
-<a href="https://medium.com/@k.sabarii.ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@k.sabarii.ganesh" height="30" width="40" /></a>
-<a href="https://discord.gg/sabari.eth🚀🚀🚀#1057" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabari.eth🚀🚀🚀#1057" height="30" width="40" /></a>
-  </h2>
+  <div align = "center">
+ <a href="https://twitter.com/sabarisabs1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="sabarisabs1" /></a>
+<a href="https://linkedin.com/in/sabariganeshk" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sabariganeshk"  /></a>
+<a href="https://instagram.com/sabari.eth" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="sabari.eth" /></a>
+<a href="https://medium.com/@k.sabarii.ganesh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@k.sabarii.ganesh" /></a>
+<a href="https://discord.gg/sabari.eth🚀🚀🚀#1057" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="sabari.eth🚀🚀🚀#1057"  /></a>
+  </div>
  
- 
+ <h2><h2/>
  <h1 align = "center">
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabariganesh-k&show_icons=true&locale=en" alt="sabariganesh-k" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabariganesh-k&" alt="sabariganesh-k" /></p>
