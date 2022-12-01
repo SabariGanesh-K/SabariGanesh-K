@@ -72,7 +72,7 @@
  
  <h2><h2/>
  <h1 align = "center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabariganesh-k&show_icons=true&locale=en" alt="sabariganesh-k" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabariganesh-k&" alt="sabariganesh-k" /></p>
+  <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=SabariGanesh-K&bg_color=000000&color=FFFFFF&line=F2AA4CFF&point=FF0000&area=true" display=block width=100% height=auto alt="2">
+<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=SabariGanesh-K&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&background=000000"></p>
 </h1>
 
