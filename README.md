@@ -63,7 +63,7 @@
 
  <h2 align = "center">STAY HAPPY AND KEEP CODING 😎</h2>
   <div align = "center">
- <a href="https://twitter.com/sabarisabs1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="sabarisabs1" /></a>
+ <a href="https://twitter.com/Sabari_ganesh_k" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Sabari_ganesh_k" /></a>
 <a href="https://linkedin.com/in/sabariganeshk" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sabariganeshk"  /></a>
 <a href="https://instagram.com/sabari.eth" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="sabari.eth" /></a>
 <a href="https://medium.com/@k.sabarii.ganesh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@k.sabarii.ganesh" /></a>
