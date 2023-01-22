@@ -77,7 +77,7 @@
  <h2><h2/>
  <h1 align = "center">
 <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com?user=SabariGanesh-K&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&background=000000"></p>
-  <p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SabariGanesh-K&show_icons=true&theme=radical"></p>
+  
    <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=SabariGanesh-K&show_icons=true&theme=radical"></p>
 
   
