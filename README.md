@@ -48,7 +48,7 @@
  <img src = "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
 </h1>
 
- 🚀🚀PROGRAMMING LANGUAGES 
+ 🚀🚀 LANGUAGES 
  <h1>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
