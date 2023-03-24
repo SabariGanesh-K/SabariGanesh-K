@@ -1,6 +1,6 @@
 <h1 align = "center"> < HELLO WORLD /> 👋 </h1>
 <h2 align = "center">  This is Sabari Ganesh K 💎 Undergrad , who can code stuffs 🔥
- Visit www.sabariganesh.tech to know moree ✔✔ </h2>
+ Visit www.sabz.netlify.app to know moree ✔✔ </h2>
  <br> <br>
  <img src = "https://c.tenor.com/vXemvwdWbg8AAAAC/gains-gains-crypto-blockchain.gif" width = "100%" >
 
