@@ -71,7 +71,7 @@
   <div align = "center">
  <a href="https://twitter.com/Sabari_ganesh_k" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Sabari_ganesh_k" /></a>
 <a href="https://linkedin.com/in/sabariganeshk" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sabariganeshk"  /></a>
-<a href="https://instagram.com/sabari.eth" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="sabari.eth" /></a>
+<a href="https://instagram.com/sabariganesh.crypto" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="sabariganesh.crypto" /></a>
 <a href="https://medium.com/@k.sabarii.ganesh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@k.sabarii.ganesh" /></a>
 <a href="https://discord.gg/sabari.eth🚀🚀🚀#1057" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="sabari.eth🚀🚀🚀#1057"  /></a>
   </div>
