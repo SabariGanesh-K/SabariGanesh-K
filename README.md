@@ -9,6 +9,26 @@
  
  Pursuing my CSE @ VIT , CHENNAI
  <h2>I'm Know to work with </h2>
+
+ 🚀🚀BLOCKCHAIN 
+ <h1>
+ <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
+ <img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+ <img src = "https://www.hashport.network/wp-content/uploads/hp-polygon-white-text.png" height = "35" width =  "100">
+ <img src = "https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white">
+ <img src = "https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
+ <img src = "https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge">
+ <img src = "https://www.cryptocoinzone.com/wp-content/uploads/2021/11/Aave-logo.png" height = "35" width =  "100">
+  <img src = "https://mma.prnewswire.com/media/1055937/Alchemy_Logo.jpg?p=facebook" height = "35" width =  "100">
+  <img src = "https://moralis.io/wp-content/uploads/2022/05/Moralis-Logo-LightBG-Large.png" height = "35" width =  "100">
+  <img src = "https://miro.medium.com/max/1400/1*TX5Jg6--E0Z-WHq8-Etgjw.png" height = "30" width =  "100">
+ <img src = "https://miro.medium.com/max/1200/1*N4Xyvmrm-6uMzJcKkU7BMw.png" height = "30" width = "100">
+   <img src = "https://moonbeam.network/wp-content/uploads/2020/12/metamask-500.png" height = "45" width =  "100">
+ <img src = "https://www.solodev.com/file/132f0677-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo.jpg" height = "40" width = "100">
+ <img src = "https://0xchai.io/static/images/ethersjs.png" height = "40" width = "100">
+ <img src = "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
+</h1>
+
  🚀🚀WEB AND APP  DEV 
  <h1>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -31,24 +51,6 @@
 
 </h1>
 
- 🚀🚀BLOCKCHAIN 
- <h1>
- <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
- <img src = "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
- <img src = "https://www.hashport.network/wp-content/uploads/hp-polygon-white-text.png" height = "35" width =  "100">
- <img src = "https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white">
- <img src = "https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
- <img src = "https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge">
- <img src = "https://www.cryptocoinzone.com/wp-content/uploads/2021/11/Aave-logo.png" height = "35" width =  "100">
-  <img src = "https://mma.prnewswire.com/media/1055937/Alchemy_Logo.jpg?p=facebook" height = "35" width =  "100">
-  <img src = "https://moralis.io/wp-content/uploads/2022/05/Moralis-Logo-LightBG-Large.png" height = "35" width =  "100">
-  <img src = "https://miro.medium.com/max/1400/1*TX5Jg6--E0Z-WHq8-Etgjw.png" height = "30" width =  "100">
- <img src = "https://miro.medium.com/max/1200/1*N4Xyvmrm-6uMzJcKkU7BMw.png" height = "30" width = "100">
-   <img src = "https://moonbeam.network/wp-content/uploads/2020/12/metamask-500.png" height = "45" width =  "100">
- <img src = "https://www.solodev.com/file/132f0677-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo.jpg" height = "40" width = "100">
- <img src = "https://0xchai.io/static/images/ethersjs.png" height = "40" width = "100">
- <img src = "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
-</h1>
 
  🚀🚀 LANGUAGES 
  <h1>
