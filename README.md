@@ -1,7 +1,12 @@
  <img src = "https://media.giphy.com/media/Q8OPrlvICzjajupr2T/giphy.gif" width = "100%" >
- A Person who ❤s technologies and gadgets 🥂 . I code and Build real SHIT 💰🧋
+   <h2 align = "center" > A Person who ❤s technologies and gadgets 🥂 . I code and Build real SHIT 💰🧋
  
- Pursuing my CSE @ VIT , CHENNAI
+ Pursuing my CSE @ VIT , CHENNAI </h2>
+ <h2 align = "center" >FullStack SDE (Cloud,Devops,Go & C# with .NET) @ Nethermind, London  | Paprika 🌶️ , Voyager 🚀 , Sedge ☁️ https://nethermind.io/  </h2>
+
+ <h2 align = "center" > Ex-SDE @Hashstack Finance ,Bangalore  https://hashstack.finance/ </h2>
+   <h2 align = "center" >Polygon Advocate & Tech Speaker <h2/>
+ <h2 align = "center" >Organized DeFy'24✅Built DAO-VITC,Golddust.Fi✅Prev 3+ Startups↗️ </h2>
  <h2>I'm Know to work with </h2>
  
  🚀🚀FrontEnd and UI
@@ -12,7 +17,6 @@
   <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-     
 <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/b1275a00-ba25-4b44-a438-099afb1b9128"  height = "35" width =  "100" >
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/a98dc63a-6497-4e79-b50d-e54a8641be34"  height = "40" width =  "100" >
   <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -28,7 +32,7 @@
      <img src ="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  </h1>
           
- 🚀🚀Backend and Cloud
+ 🚀🚀Backend , Cloud ,CI-CD  & Deployments
  <h1>
  
    <img src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
@@ -40,7 +44,21 @@
     <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/28de92b6-b34e-4e1e-b84f-43daa96e328d"  height = "35" width =  "100" >
      <img src ="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/a774081e-1765-4b21-bf0a-2be245fd4343"  height = "35" width =  "100" >
+        <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/883ec624-f6e9-4c9d-a1a5-fd700d142c2d"  height = "35" width =  "100" >
+           <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/25cf3198-2a1b-41fb-a168-371a1686c7a6"  height = "35" width =  "100" >
+              <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/0514a956-95d7-4a6f-a775-cd8c5a71a15e"  height = "35" width =  "100" >
+ <img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/949cbde3-47c1-461e-a595-7c20703c1eb5"  height = "35" width =  "100" >
+ <img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f5b4762d-f790-444c-9d23-7c8d20f0a336"  height = "35" width =  "100" >
+ <img src ="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+ <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/5f2336da-5acc-4f5d-b5e2-ca6ba9cd5ecc" height = "35" width =  "100" >
 
+ <img src ="https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white">
+   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/3624e306-0ce8-48e2-9ff5-49de629e96cf"  height = "35" width =  "100" >
+      <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+ <img src =" https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+      <img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src = "https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
 
 
 </h1>
@@ -59,7 +77,9 @@
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/ad1549b2-2371-4e21-a70c-8a34771fe5f7" height = "35" width =  "100">
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/62b18023-86ff-4ed0-9b81-526e2913f15a" height = "35" width= "100" >
  <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/6a848de9-efd6-46e5-97ac-9096ff8b00aa" height = "35" width =  "100">
-  <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/9c3664df-8698-46b2-b016-f27c8c2396bf" height = "35" width =  >
+  <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/9c3664df-8698-46b2-b016-f27c8c2396bf" height = "35" width = "100" >
+    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f16e077a-5b1b-4c31-9765-4fc8f2d7a653" height = "35" width = "100" >
+
    <img src ="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white">
  <img src = "https://www.cryptocoinzone.com/wp-content/uploads/2021/11/Aave-logo.png" height = "35" width =  "100">
   <img src = "https://mma.prnewswire.com/media/1055937/Alchemy_Logo.jpg?p=facebook" height = "35" width =  "100">
@@ -68,26 +88,17 @@
  <img src = "https://miro.medium.com/max/1200/1*N4Xyvmrm-6uMzJcKkU7BMw.png" height = "30" width = "100">
    <img src = "https://moonbeam.network/wp-content/uploads/2020/12/metamask-500.png" height = "45" width =  "100">
  <img src = "https://www.solodev.com/file/132f0677-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo.jpg" height = "40" width = "100">
-
  <img src = "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white">
+  
 </h1>
 
- 🚀🚀 CI/CD and Deployments
-<h1>
-  <img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f5b4762d-f790-444c-9d23-7c8d20f0a336"  height = "35" width =  "100" >
- <img src ="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
- <img src ="https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white">
-   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/3624e306-0ce8-48e2-9ff5-49de629e96cf"  height = "35" width =  "100" >
-      <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
- <img src =" https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-      <img src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src = "https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
-</h1>
+
 
  🚀🚀 LANGUAGES 
  <h1>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/949cbde3-47c1-461e-a595-7c20703c1eb5" height = "35" width = "100" >
   <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
   <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
