@@ -44,15 +44,18 @@
     <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/28de92b6-b34e-4e1e-b84f-43daa96e328d"  height = "35" width =  "100" >
      <img src ="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/a774081e-1765-4b21-bf0a-2be245fd4343"  height = "35" width =  "100" >
-        <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/883ec624-f6e9-4c9d-a1a5-fd700d142c2d"  height = "35" width =  "100" >
+<img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/b6b22bfa-5798-4f85-8a6a-7a105a5cf891"   height = "35" width =  "100" >
            <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/25cf3198-2a1b-41fb-a168-371a1686c7a6"  height = "35" width =  "100" >
+    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/a774081e-1765-4b21-bf0a-2be245fd4343"  height = "35" width =  "100" >
+        <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/43e70585-b11e-4f83-9c0f-711b0e215f60"  height = "35" width =  "100" >    
+   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/bb00344c-0ee6-427b-9d9c-b84c95bc16bb"  height = "35" width =  "100" > 
               <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/0514a956-95d7-4a6f-a775-cd8c5a71a15e"  height = "35" width =  "100" >
  <img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/949cbde3-47c1-461e-a595-7c20703c1eb5"  height = "35" width =  "100" >
+    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/883ec624-f6e9-4c9d-a1a5-fd700d142c2d"  height = "35" width =  "100" >
  <img src ="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f5b4762d-f790-444c-9d23-7c8d20f0a336"  height = "35" width =  "100" >
  <img src ="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
  <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/5f2336da-5acc-4f5d-b5e2-ca6ba9cd5ecc" height = "35" width =  "100" >
-
+<img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/70fcf258-32f5-4d7e-bd48-258c90c4546c" height = "35" width =  "100" >
  <img src ="https://img.shields.io/badge/elastic%20cloud-005571?style=for-the-badge&logo=elasticcloud&logoColor=white">
    <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/3624e306-0ce8-48e2-9ff5-49de629e96cf"  height = "35" width =  "100" >
       <img src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -73,13 +76,18 @@
  <img src = "https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge">
 <img src = "https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
  <img src ="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
-   <img src = "https://0xchai.io/static/images/ethersjs.png" height = "40" width = "100">
+  <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/a8e2d2ce-af29-4fbb-a5f2-8a0c5bcfdb7a"  height = "35" width =  "100">
+    <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/7de59631-becb-4a4d-bcc9-1c624d829a34"  height = "35" width =  "100">
+      <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/2d9cfa2d-8843-490b-95da-a93b69b6f6ea"  height = "35" width =  "100">
+   <img src = "https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/b852073a-7842-4278-b2a8-4f907de51a86"
+ height = "40" width = "100">
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/ad1549b2-2371-4e21-a70c-8a34771fe5f7" height = "35" width =  "100">
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/62b18023-86ff-4ed0-9b81-526e2913f15a" height = "35" width= "100" >
  <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/6a848de9-efd6-46e5-97ac-9096ff8b00aa" height = "35" width =  "100">
   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/9c3664df-8698-46b2-b016-f27c8c2396bf" height = "35" width = "100" >
+ <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/ccd80ce9-35bb-4c60-a269-a4b6fb4d954f" height = "35" width = "100" >
+   <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f539a4d3-67e5-45cf-84dd-77e261095f3f" height = "35" width = "100" >
     <img src="https://github.com/SabariGanesh-K/SabariGanesh-K/assets/64348740/f16e077a-5b1b-4c31-9765-4fc8f2d7a653" height = "35" width = "100" >
-
    <img src ="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white">
  <img src = "https://www.cryptocoinzone.com/wp-content/uploads/2021/11/Aave-logo.png" height = "35" width =  "100">
   <img src = "https://mma.prnewswire.com/media/1055937/Alchemy_Logo.jpg?p=facebook" height = "35" width =  "100">
