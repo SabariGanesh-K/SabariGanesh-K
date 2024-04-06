@@ -6,7 +6,7 @@
 
  <h2 align = "center" > Ex-SDE @Hashstack Finance ,Bangalore  https://hashstack.finance/ </h2>
    <h2 align = "center" >Polygon Advocate & Tech Speaker <h2/>
- <h2 align = "center" >Organized DeFy'24✅Built DAO-VITC,Golddust.Fi✅Prev 3+ Startups↗️ </h2>
+ <h2 align = "center" >Organized DeFy'24✅Built DAO-VITC✅Prev 3+ Startups↗️ </h2>
  <h2>I'm Know to work with </h2>
  
  🚀🚀FrontEnd and UI
