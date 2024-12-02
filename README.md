@@ -2,9 +2,9 @@
    <h2 align = "center" > A Person who ❤s technologies and gadgets 🥂 . I code and Build real SHIT 💰🧋
  
  Pursuing my CSE @ VIT , CHENNAI </h2>
- <h2 align = "center" >Ex FullStack SDE (Cloud,Devops,Go & C# with .NET) @ Nethermind, London  | Paprika 🌶️ , Voyager 🚀 , Sedge ☁️  ,ZkSync-Remix Plugin 🔌 https://nethermind.io/  </h2>
+ <h2 align = "center" >Ex FullStack SDE  @ Nethermind, London  |   Ex-SDE @Hashstack Finance ,Bengaluru   |   Ex Backend and Infrastructure @EDMYN   |    </h2>
 
- <h2 align = "center" > Ex-SDE @Hashstack Finance ,Bangalore  https://hashstack.finance/ </h2>
+ <h2 align = "center" > </h2>
    <h2 align = "center" >Tech Speaker <h2/>
  <h2 align = "center" >Organized DeFy'24✅Built DAO-VITC✅Prev 3+ Startups↗️ </h2>
  <h2>I'm Know to work with </h2>
