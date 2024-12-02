@@ -11,37 +11,38 @@
     
  <h2> Backend and Databases: </h2>
  
-  MongoDB , NoSQL , PostgreSQL , AWS , MySQL , Node. , Express , Go Fiber 
-, Gin , Migrations , DB Mock , gRPC , Redis Queues , Firebase , Websockets , Distributed systems , Test Driven Development ,etc 
-[ALL Typescript/Javascript/GO]
+  MongoDB , NoSQL , PostgreSQL , AWS , MySQL Node., Express , Go Fiber , Gin ,
+Migrate .Protobuf , Redis Queues , Microservices , Relational databases , Linux , DB Mock , Rest API , gRPC , Distributed systems , Firebase ,  Test Driven Development [ Typescript/Javascript/GO]
+
     
  <h2 > Frontend and UI: </h2>
 
-React , Next , Angular (ALL Typescript and Javascript), Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.), State Management (Redux, Context, etc.) , Caching ,  React Native, Expo 
+React , Next , Angular (ALL Typescript and Javascript) , Component architecture , Styling and UI (Tailwind CSS, Chakra UI, MUI, etc.) , State Management (Redux, Context, etc.), Caching , Server Side Rendering , React Native, Expo
 
  <h2> DevOps and Cloud:  </h2>
 
-AWS cloud , Docker , Kubernetes , kubectl ,  Github Actions , Jenkins , Pipelines , IAAC with Terraform , Redis 
+AWS cloud . Docker , Github Actions and workflows , Kubernetes , Jenkins,Pipelines, Redis
 
  <h2> Artificial Intelligence: </h2>
 
-Working on fundamental ML and DL algorithms (Regression, Classification, etc.), Recommendation systems, and Sentimental Analysis,Langchains , LLMs
-
- <h2 > Languages: </h2>
-
-Data Structures , Algorithms ,JavaScript , TypeScript , GoLang , Solidity, C++ , Java, Python 
-
- <h2> Quant Finance: </h2>
-
-Python , Numpy , Fundamental Algorithms , Stocks,Commodities,Derivatives,Markowitz Modern Portfolio Diversification analysios ,Capital Asset PM,Stochastic Randomness Calculus,Weiner process,Black–Scholes mode ,etc [Fundamental theories + Moderate implementation] 
-
- <h2 > Blockchain: </h2>
-
-Solidity, DeFi (Aave, Flashloans, Arbitrages, Pool Investments, Vaults, etc.), Starknet , DAO, NFTs, Tokens , ZKEVM, Infura, BNB,Alchemy, and other endpoints,Tools like Hardhat,Truffle, Brownie, Ganache, and integration with Ethers.js, Web3.js, 
+Working on fundamental algorithms (Regression, Classification, etc.), Langchains , LLMs ,etc
 
  <h2 > Hardware: </h2>
 
-C,Arduino UNO , Cyber physical systems ,ESP 32 , Raspberry pi
+C, Arduino UNO , IOT and Domain Analyst , Cyber physical systems and communications , ESP 32 , Raspberry pi , Embedded systems , Connected Cameras , Autonomous Drones ,
+
+ <h2 > Languages: </h2>
+
+Data Structures ,Algorithms , Data Analysis , JavaScript , TypeScript ,Go Lang, Solidity, C++, Java, Python
+
+ <h2> Quant Finance: </h2>
+
+Python , Numpy , Fundamental Algorithms , Stocks , Commodities,Derivatives,Markowitz Modern Portfolio Diversification analysios ,Capital Asset PM,Stochastic Randomness Calculus,Weiner process,Black–Scholes mode ,etc [Fundamental theories + Moderate implementation]
+
+ <h2 > Blockchain: </h2>
+
+Solidity, DeFi (Aave, Flashloans, Arbitrages, Pool Investments, Vaults, etc.), Integrations , GoETH , Starknet , DAO, NFTs, Tokens , ZKEVM, Infura, BNB,Alchemy, and other endpoints,Tools like Hardhat, and web integration with Ethers.js, Web3.js,
+
 
 <h1 align = "center">
  <img src = "https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif" width = "300" >
